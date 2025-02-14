@@ -1,0 +1,1 @@
+This directory has all the hardware assets that can be used to extend the utility of our LemurKit. All of these assets have been tested on the Prusa XL 3D printer and the BossLaser (105W | CO2 laser) models
